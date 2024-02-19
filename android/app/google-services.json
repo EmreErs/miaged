@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467109773985",
+    "project_id": "miaged-dc70a",
+    "storage_bucket": "miaged-dc70a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467109773985:android:514f9a1343668e24d726e0",
+        "android_client_info": {
+          "package_name": "com.example.tp_emre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi6cdQ7vIEXKmN9T9TH-dMLdzjuG2nmtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
