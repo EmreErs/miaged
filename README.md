@@ -1,16 +1,10 @@
-# tp_emre
+ERSOY Emre  Master 2 MIAGE INTENSE à l'Université Cote d'Azur
 
-A new Flutter project.
+Projet scolaire utilisant flutter pour la matière Développement mobile.
 
-## Getting Started
+Ce projet est un projet rassemblant différentes activités à faire. Vous pouvez les ajouter / supprimer su panier.
+Lors de la suppression du panier il faut actualiser la page pour voir l'activité supprimé du panier.
 
-This project is a starting point for a Flutter application.
+Les identifiants sont : ID : emre.test MDP azerty
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+En cas de problème me contacter.

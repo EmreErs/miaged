@@ -129,7 +129,6 @@ class ActivityDetailsPage extends StatelessWidget {
 
   void addPanier(BuildContext context) {
     FirebaseFirestore.instance.collection('panier').add({
-      'id' : Random().nextInt(100000000),
       'titre': titre,
       'lieu': lieu,
       'image': image,
@@ -137,7 +136,6 @@ class ActivityDetailsPage extends StatelessWidget {
       'categorie': categorie,
       'maxPlace': maxPlace,
       'userId': Globals.userId, 
-      
     }).then((value) {
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
         content: Text('Activité ajoutée au panier'),
